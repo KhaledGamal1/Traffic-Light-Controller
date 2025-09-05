@@ -63,7 +63,7 @@ Testbenches are provided for all modules.
 
 ## Authors
 
-- [Khaled Gamal]
+- Khaled Gamal
 
 ---
 
