@@ -15,25 +15,6 @@ This project implements a digital traffic light controller on an FPGA (tested on
 
 ---
 
-## Directory Structure
-
-```
-Mini project/
-├── clk_divider.v
-├── clk_divider_tb.v
-├── timer.v
-├── timer_tb.v
-├── Traffic_light_controller_FSM.v
-├── Traffic_light_controller_FSM_tb.v
-├── two_digit_display.v
-├── two_digit_display_tb.v
-├── Top_module.v
-├── Top_module_tb.v
-├── Nexys4DDR_Master.xdc
-```
-
----
-
 ## Module Overview
 
 ### 1. `clk_divider.v`
@@ -82,13 +63,7 @@ Testbenches are provided for all modules.
 
 ## Authors
 
-- [Your Name Here]
-
----
-
-## License
-
-This project is licensed under the MIT License.
+- [Khaled Gamal]
 
 ---
 
